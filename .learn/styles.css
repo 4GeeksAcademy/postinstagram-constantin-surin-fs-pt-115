@@ -1,0 +1,135 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    /* * {
+  border: 1px solid red;
+} */
+}
+
+html {
+    background-color: #0e0000;
+}
+
+body {
+    margin: 200px;
+}
+
+.Instagram {
+    background-color: rgb(179, 199, 218);
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.Instagram-header {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(4, 4, 6);
+    height: 10%;
+    width: 100%;
+    margin: auto;
+}
+
+.iconohtml {
+    font-size: 37px;
+    color: rgb(13, 9, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin: 0;
+
+}
+
+.HTML5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.texto5 {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    line-height: 1.1;
+    /* line-height: 1.1; visto en internet,xq se deja mucho espacio entre h3 y la siguiente linea */
+}
+
+.texto5 h3,
+.texto5 p {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    font-size: 25px;
+    margin: 10px;
+    padding: 0;
+}
+
+
+.Instagram-body {
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 65%;
+    width: 100%;
+    margin: auto;
+    margin-top: auto;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.Instagram-footer {
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+    width: 100%;
+
+
+}
+
+.iconosinsta {
+    font-size: 25px;
+    color: rgb(6, 0, 0);
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 10;
+}
+
+.iconos3 {
+    margin: 10px;
+}
+
+.bookmark {
+    margin: 10px;
+}
+
+.like {
+    margin: 10px;
+    font-size: 14px;
+}
+
+.lorem {
+    margin: 10px;
+    font-size: 14px;
+    text-align: left;
+    width: auto;
+    height: auto;
+
+}
